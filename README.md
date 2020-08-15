@@ -20,6 +20,8 @@ You'll find the data used in my analysis in the file **kc_house_data.csv** that 
 
 You'll find the modeling approach and effort found within an iPython Notebook **KC_Linear_Regression.ipnyb**. To run this notebook, you'll need along with the packages listed above Jupyter Notebook installed on your computer to open and look at the notebook file. Once inside, you'll a documentation and details for each section of the project from importing the packages and data all the way to the final model. The notebook is meant to run sequentially from the top. So please ensure to run every cell accordingly and do not skip any or you will not get the proper output. There are no extraneous cells of code and each one is critical for the final result.
 
+I used linear regression packages from Scikit along with ways to analyze the features for colinearity, R-values, p-values, etc. from Statsmodels and Scipy Stats.
+
 Each section of the project is detailed within the notebook and commented.
 
 ## Summary Presentation
